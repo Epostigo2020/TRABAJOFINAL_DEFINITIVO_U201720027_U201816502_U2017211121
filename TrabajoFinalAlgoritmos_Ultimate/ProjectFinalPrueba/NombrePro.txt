@@ -1,0 +1,6 @@
+Nombre,Apellido,Carrera,Edad
+Karim,Samanamud,Sistemas,42
+Lucia,DeLaCruz,NoSexD,33
+Rafael,Cortana,Cantante,50
+Ronaldo,Cristiano,Futbolista,65
+Ronaldo,Nazario,Futbolista,70

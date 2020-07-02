@@ -1,0 +1,4 @@
+Nombre,Apellido,Carrera,Edad
+Diego,Vega,Sistemas,53
+Johan,Maya,Sistemas,42
+Eduardo,Martinez,Jugar,10

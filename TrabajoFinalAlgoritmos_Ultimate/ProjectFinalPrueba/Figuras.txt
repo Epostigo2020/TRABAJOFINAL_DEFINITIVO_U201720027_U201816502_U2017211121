@@ -1,0 +1,3 @@
+Nombre,Lados,Letra
+Triangulo,3,A
+Cuadrado,4,B

@@ -1,0 +1,7 @@
+Nombre,Apellido,Carrera,Edad
+Diego,Vega,Sistemas,53
+Evelyn,Cornejo,Civil,10
+Pedrito,Fernandez,Cantante,24
+Pedrito,Fernandiiito,Cantautor,11
+Rafael,Cortana,Cantante,50
+Sebastian,Alzamora,Militar,18

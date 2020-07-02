@@ -1,0 +1,9 @@
+Nombre,Apellido,Nacionalidad,Goles,Equipo
+Ronaldo,Nazario,Brasil,135,SaoPaulo
+Lionel,Messi,Argentina,250,A
+Paolo,Guerrero,Peru,350,B
+Aldo,Corso,Peru,20,C
+Enrique,Postigo,Peru,1,D
+Luis,Suarez,Uruguay,340,E
+Neymar,Jr,Brasil,130,D
+Cavani,NOsexd,Uruguay,140,D

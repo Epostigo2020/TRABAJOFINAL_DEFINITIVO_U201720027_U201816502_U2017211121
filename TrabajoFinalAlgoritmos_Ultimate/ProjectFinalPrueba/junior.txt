@@ -1,0 +1,2 @@
+Nombre,Apellido,Carrera,Edad
+Junior,Hurtado,Software,24

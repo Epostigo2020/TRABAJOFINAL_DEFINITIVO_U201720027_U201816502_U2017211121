@@ -1,0 +1,8 @@
+Nombre,Apellido,Carrera,Edad
+Marcos,Medina,Matematica,11
+Abraham,Garcia,Sistemas,16
+Johan,Maya,Sistemas,42
+Diego,Vega,Sistemas,53
+Carlos,Clemente,Sistemas,10
+Karim,Samanamud,Sistemas,42
+Luiggi,Marin,Sistemas,53
